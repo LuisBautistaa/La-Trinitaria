@@ -1,0 +1,29 @@
+header{
+	background: #2c3e60;
+	color:#fff;
+}
+
+aside{
+	background: #7cffc9;
+	color: #000000;
+}
+
+article{
+	background: #59d69b;
+	color:rgb(0, 0, 0);
+}
+
+table{
+	background: #70969d;
+	columns: #000000;;
+}
+
+.color1{
+	background:#2c5e80;
+	color:#fff;
+}
+
+footer{
+	background:#2c7e16;
+	color:#fff;
+}
