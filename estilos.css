@@ -2,6 +2,17 @@ header{
 	background: #2c3e60;
 	color:#fff;
 }
+.navbar{
+	margin-bottom: 1rem;
+}
+.navbar a{
+	font-size: 1.4rem;
+}
+.navbar a:hover{
+	border: 1px solid #000;
+	border-radius: 40px;
+}
+
 
 aside{
 	background: #7cffc9;
@@ -24,6 +35,16 @@ table{
 }
 
 footer{
+	margin-top: 1rem;
 	background:#2c7e16;
 	color:#fff;
+}
+
+.card{
+	margin-right: 2px;
+	border: 1px solid #000;
+}
+
+.card p{
+	margin: 4px;
 }
