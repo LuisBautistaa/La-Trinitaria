@@ -7,10 +7,11 @@ header{
 }
 .navbar a{
 	font-size: 1.4rem;
+	
 }
 .navbar a:hover{
 	border: 1px solid #000;
-	border-radius: 40px;
+	border-radius: 30px;
 }
 
 
@@ -36,8 +37,15 @@ table{
 
 footer{
 	margin-top: 1rem;
-	background:#2c7e16;
+	background: #59d69b;
 	color:#fff;
+}
+footer span{
+	color:red;
+}
+footer i{
+	font-size: 40px;
+	margin-right: 1.5rem;
 }
 
 .card{
